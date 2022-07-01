@@ -1,0 +1,35 @@
+CSS
+head {
+    color:black;
+}
+img {
+  margin-bottom: 0cm;
+  margin-top: 0cm;
+  width: 10cm;
+  height: 10cm;
+  position: relative;
+}
+body {
+  background-color: moccasin;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 2cm;
+  margin-bottom: 0cm;
+  margin-top: 0cm;
+}
+
+p1 {
+  font-size: 25px;
+  text-align: center;
+  font-style: oblique;
+}
+p2 {
+    font-size: 25px;
+  text-align: center;
+  font-style: oblique;
+}
